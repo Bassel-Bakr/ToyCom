@@ -1,0 +1,8 @@
+println("2 plus 2 is ", twoPlusTwo = 2 + 2)
+println("minus 3 is ", twoPlusTwo - 3, " quick maffs")
+
+println(2^0)
+println(2^1)
+println(2^2)
+println(2^3)
+println(2^4)
